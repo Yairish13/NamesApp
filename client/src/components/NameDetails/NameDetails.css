@@ -1,0 +1,17 @@
+.name-details-name{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.name-details-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.name-details-container{
+    width: 90%;
+    padding: 5px;
+    border: 1px solid #999;
+}

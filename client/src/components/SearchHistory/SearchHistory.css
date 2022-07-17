@@ -1,0 +1,15 @@
+.search-history{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow-y:auto;
+    overflow-x: hidden;
+}
+
+.searches_container{
+    height: 270px;
+    width: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
